@@ -1,0 +1,234 @@
+"Phrases"
+{
+	"Command_3rd_in"
+	{
+		"en"	"You are now in third person."
+		"fr"	"Vous êtes désormais en 3ème personne."
+	}
+	"Command_3rd_out"
+	{
+		"en"	"You are now in first person."
+		"fr"	"Vous êtes désormais en première personne."
+	}
+	"Command_force_cantmove"
+	{
+		"en"	"You are not allowed to move a person."
+		"fr"	"Vous n'êtes pas autorisé à déplacer une personne."
+	}
+	"Command_force_cantjustice"
+	{
+		"en"	"You are not allowed to move a person out of court."
+		"fr"	"Vous n'êtes pas autorisé à déplacer une personne en dehors du tribunal."
+	}
+	"Command_force_cantsuperior"
+	{
+		"en"	"You are not allowed to move a superior."
+		"fr"	"Vous n'êtes pas autorisé à déplacer un supérieur."
+	}
+	"Command_force_cantcolleague"
+	{
+		"en"	"You are not allowed to move a colleague."
+		"fr"	"Vous n'êtes pas autorisé à déplacer un collègue."
+	}
+	"Command_force_cantpolice"
+	{
+		"en"	"You are not allowed to move a policeman."
+		"fr"	"Vous n'êtes pas autorisé à déplacer un policier."
+	}
+	"Command_force_onlyemploye"
+	{
+		"en"	"Only your employees can be moved."
+		"fr"	"Seul vos employés peuvent être déplacés."
+	}
+	"Command_force_cantmafia"
+	{
+		"en"	"This person is too influential to be moved."
+		"fr"	"Cette personne est trop influente pour être déplacée."
+	}
+	"Command_force_cantafk"
+	{
+		"en"	"This person is AFK."
+		"fr"	"Cette personne est AFK."
+	}
+	"Command_force_cantpvp"
+	{
+		"en"	"Force is disabled in {lightred}PVP {default}area."
+		"fr"	"La force est désactivé en zone {lightred}PVP{default}."
+	}
+	"Command_force_moving"	
+	{
+		"#format" "{1:s}"
+		"en"	"You are wearing {1}."
+		"fr"	"Vous portez {1}."
+	}
+	"Command_force_onmoving"
+	{
+		"#format" "{1:s}"
+		"en"	"{1} carries you."
+		"fr"	"{1} vous porte."
+	}
+	"Command_unlock_unlocked"
+	{
+		"en"	"Door <font color='#DC143C'>unlocked</font>."
+		"fr"	"Porte <font color='#DC143C'>déverrouillée</font>."
+	}
+	"Command_unlock_alreadyunlocked"
+	{
+		"en"	"The door is already unlocked."
+		"fr"	"La porte est déjà déverrouillée."
+	}
+	"Door_NoAccess"
+	{
+		"en"	"You do not have access to this door."
+		"fr"	"Vous n'avez pas accès à cette porte."
+	}
+	"Door_InvalidAim"
+	{
+		"en"	"You have to aim for a door."
+		"fr"	"Vous devez viser une porte."
+	}
+	"Command_lock_locked"
+	{
+		"en"	"Door <font color='#DC143C'>locked</font>."
+		"fr"	"Porte <font color='#DC143C'>verrouillée</font>."
+	}
+	"Command_unlock_alreadylocked"
+	{
+		"en"	"The door is already locked."
+		"fr"	"La porte est déjà verrouillée."
+	}
+	"Command_passive_in"
+	{
+		"en"	"Passive mode activated."
+		"fr"	"Mode passive activé."
+	}
+	"Command_passive_out"
+	{
+		"en"	"Passive mode disabled."
+		"fr"	"Mode passive désactivé."
+	}
+	"Menu_job_employe"
+	{
+		"en"	"Manage my employees"
+		"fr"	"Gérer mes employés"
+	}
+	"Menu_job_shownote"
+	{
+		"en"	"Show Note of your company"
+		"fr"	"Show Note de votre entreprise"
+	}
+	"Menu_job_salary"
+	{
+		"en"	"Manage salaries"
+		"fr"	"Gérer les salaires"
+	}
+	"Menu_job_capital"
+	{
+		"#format" "{1:d}"
+		"en"	"Capital: {1}$"
+		"fr"	"Capital: {1}$"
+	}
+	"Menu_job_left"
+	{
+		"en"	"Resign from my job"
+		"fr"	"Démissionner"
+	}
+	"JobLeft"
+	{
+		"en"	"You have resigned from your profession."
+		"fr"	"Vous avez démissionné de votre métier."
+	}
+	"Menu_employe_title"
+	{
+		"en"	"Manage my employees"
+		"fr"	"Gérer mes employés"
+	}
+	"Menu_employe_hire"
+	{
+		"en"	"Hire an employee"
+		"fr"	"Embaucher un employé"
+	}
+	"Menu_employe_employeedit"
+	{
+		"en"	"Modify employee contract"
+		"fr"	"Modifier le contrat d'un employé"
+	}
+	"Job_SendRequest"
+	{
+		"#format" "{1:s}"
+		"en"	"You have offered {1} a job."
+		"fr"	"Vous avez proposé un emploi à {1}."
+	}
+	"Job_TargetReceiveRequest"
+	{
+		"#format" "{1:s},{2:s}"
+		"en"	"You have offered {1} a job."
+		"fr"	"{1} vous propose un emploi dans {2}, accepter ?"
+	}
+	"Accept"
+	{
+		"en"	"Accept"
+		"fr"	"Accepter"
+	}
+	"Refuse"
+	{
+		"en"	"Refuse"
+		"fr"	"Refuser"
+	}
+	"Boss_Hire_accepted"
+	{
+		"#format" "{1:s}"
+		"en"	"You have hired {1}."
+		"fr"	"Vous avez embauché {1}."
+	}
+	"Employe_Hire_accepted"
+	{
+		"#format" "{1:s},{2:s},{3:s}"
+		"en"	"You have hired {1}."
+		"fr"	"You have been hired {1} - {2} by {3}."
+	}
+	"NullEmployees"
+	{
+		"en"	"You declined a job offer."
+		"fr"	"Vous avez refusé une offre d'emploi."
+	}
+	"Target_RefuseJob"
+	{
+		"en"	"You declined a job offer."
+		"fr"	"Vous avez refusé une offre d'emploi."
+	}
+	"Boss_TargetRefusedJob"
+	{
+		"#format" "{1:s}"
+		"en"	"{1} declined your job offer."
+		"fr"	"{1} a refusé votre offre d'emploi."
+	}
+	"MenuIdentity_title"
+	{
+		"en"	"ID Card\n"
+		"fr"	"Carte d'identité\n"
+	}
+	"MenuIdentity_faim"
+	{
+		"#format" "{1:0.1f}"
+		"en"	"Hunger: {1}/100.0"
+		"fr"	"Faim: {1}/100.0"
+	}
+	"MenuIdentity_salary"
+	{
+		"#format" "{1:d}"
+		"en"	"Salary: {1}$"
+		"fr"	"Salaire: {1}$"
+	}
+	"MenuIdentity_steamid"
+	{
+		"#format" "{1:s}"
+		"en"	"SteamID: {1}"
+		"fr"	"SteamID: {1}"
+	}
+	"MenuBuild_title"
+	{
+		"en"	"-|Menu Build|-"
+		"fr"	"-|Menu Build|-"
+	}
+}

@@ -1,0 +1,755 @@
+"Jobs"
+{
+	"0"
+	{
+		"jobname"		"Pôle Emploi"
+		"capital"		"145811"
+		"grades"		"1"
+		"0"
+		{
+			"grade"		"Chômeur"
+			"clantag"		"Chômeur"
+			"salary"		"600"
+			"model"		"none"
+		}
+	}
+	"1"
+	{
+		"jobname"		"Police"
+		"capital"		"94000"
+		"grades"		"6"
+		"1"
+		{
+			"grade"		"Chef"
+			"clantag"		"C.Police"
+			"salary"		"1500"
+			"model"		"models/player/custom_player/kuristaja/jailbreak/guard3/guard3.mdl"
+		}
+		"2"
+		{
+			"grade"		"Co-Chef"
+			"clantag"		"Co.Police"
+			"salary"		"1400"
+			"model"		"models/player/custom_player/kuristaja/jailbreak/guard3/guard3.mdl"
+		}
+		"3"
+		{
+			"grade"		"G.T.I"
+			"clantag"		"G.T.I"
+			"salary"		"1200"
+			"model"		"models/player/custom_player/kuristaja/jailbreak/guard4/guard4.mdl"
+		}
+		"4"
+		{
+			"grade"		"F.B.I"
+			"clantag"		"F.B.I"
+			"salary"		"1100"
+			"model"		"models/player/custom_player/kuristaja/jailbreak/guard4/guard4.mdl"
+		}
+		"5"
+		{
+			"grade"		"Policier"
+			"clantag"		"Policier"
+			"salary"		"950"
+			"model"		"models/player/custom_player/kuristaja/jailbreak/guard1/guard1.mdl"
+		}
+		"6"
+		{
+			"grade"		"Gardien"
+			"clantag"		"Gardien"
+			"salary"		"850"
+			"model"		"models/player/custom_player/kuristaja/jailbreak/guard5/guard5.mdl"
+		}
+	}
+	"2"
+	{
+		"jobname"		"Mafia Japonaise"
+		"capital"		"89985"
+		"grades"		"5"
+		"1"
+		{
+			"grade"		"Chef"
+			"clantag"		"C.Mafia"
+			"salary"		"485"
+		}
+		"2"
+		{
+			"grade"		"Co-Chef"
+			"clantag"		"C.Mafia"
+			"salary"		"600"
+		}
+		"3"
+		{
+			"grade"		"Yakuza"
+			"clantag"		"Yakuza"
+			"salary"		"425"
+		}
+		"4"
+		{
+			"grade"		"Grand frère"
+			"clantag"		"Mafia"
+			"salary"		"250"
+		}
+		"5"
+		{
+			"grade"		"Petit frère"
+			"clantag"		"Mafia"
+			"salary"		"210"
+		}
+	}
+	"3"
+	{
+		"jobname"		"18TH"
+		"capital"		"98770"
+		"grades"		"5"
+		"1"
+		{
+			"grade"		"Chef"
+			"clantag"		"C.18TH"
+			"salary"		"335"
+		}
+		"2"
+		{
+			"grade"		"Co-Chef"
+			"clantag"		"C.18TH"
+			"salary"		"470"
+		}
+		"3"
+		{
+			"grade"		"Caïd"
+			"clantag"		"18TH"
+			"salary"		"425"
+		}
+		"4"
+		{
+			"grade"		"Gangster"
+			"clantag"		"18TH"
+			"salary"		"250"
+		}
+		"5"
+		{
+			"grade"		"Guetteur"
+			"clantag"		"18TH"
+			"salary"		"210"
+		}
+	}
+	"4"
+	{
+		"jobname"		"Hôpital"
+		"capital"		"115085"
+		"grades"		"5"
+		"1"
+		{
+			"grade"		"Chef"
+			"clantag"		"C.Hôpital"
+			"salary"		"500"
+		}
+		"2"
+		{
+			"grade"		"Co-Chef"
+			"clantag"		"C.Hôpital"
+			"salary"		"500"
+		}
+		"3"
+		{
+			"grade"		"Cancérologue"
+			"clantag"		"Cancérologue"
+			"salary"		"475"
+		}
+		"4"
+		{
+			"grade"		"Chirurgien"
+			"clantag"		"Chirurgien"
+			"salary"		"425"
+		}
+		"5"
+		{
+			"grade"		"Médecin"
+			"clantag"		"Médecin"
+			"salary"		"350"
+		}
+	}
+	"5"
+	{
+		"jobname"		"Mairie"
+		"capital"		"-28394"
+		"grades"		"4"
+		"1"
+		{
+			"grade"		"Maire"
+			"clantag"		"Maire"
+			"salary"		"500"
+		}
+		"2"
+		{
+			"grade"		"Adjoint"
+			"clantag"		"Ad.Maire"
+			"salary"		"500"
+		}
+		"3"
+		{
+			"grade"		"Garde du corps"
+			"clantag"		"Mairie"
+			"salary"		"500"
+		}
+		"4"
+		{
+			"grade"		"Intérimaire"
+			"clantag"		"Mairie"
+			"salary"		"500"
+		}
+	}
+	"6"
+	{
+		"jobname"		"Armurerie"
+		"capital"		"94275"
+		"grades"		"5"
+		"1"
+		{
+			"grade"		"Chef"
+			"clantag"		"C.Armurerie"
+			"salary"		"500"
+		}
+		"2"
+		{
+			"grade"		"Co-Chef"
+			"clantag"		"C.Armurerie"
+			"salary"		"600"
+		}
+		"3"
+		{
+			"grade"		"Armurier Accrédité"
+			"clantag"		"Armurerie"
+			"salary"		"500"
+		}
+		"4"
+		{
+			"grade"		"Armurier"
+			"clantag"		"Armurerie"
+			"salary"		"500"
+		}
+		"5"
+		{
+			"grade"		"Vendeur d'armes"
+			"clantag"		"Armurerie"
+			"salary"		"600"
+		}
+	}
+	"7"
+	{
+		"jobname"		"Justice"
+		"capital"		"100000"
+		"model"		"none"
+		"grades"		"7"
+		"1"
+		{
+			"grade"		"Chef"
+			"clantag"		"C.Justice"
+			"salary"		"500"
+		}
+		"2"
+		{
+			"grade"		"Co-Chef"
+			"clantag"		"C.Justice"
+			"salary"		"500"
+		}
+		"3"
+		{
+			"grade"		"Haut Juge"
+			"clantag"		"Haut-Juge"
+			"salary"		"500"
+		}
+		"4"
+		{
+			"grade"		"Juge Fédéral"
+			"clantag"		"Justice"
+			"salary"		"500"
+		}
+		"5"
+		{
+			"grade"		"Juge Pénal"
+			"clantag"		"Justice"
+			"salary"		"500"
+		}
+		"6"
+		{
+			"grade"		"Magistrat"
+			"clantag"		"Justice"
+			"salary"		"500"
+		}
+		"7"
+		{
+			"grade"		"Juge"
+			"clantag"		"Justice"
+			"salary"		"500"
+		}
+	}
+	"8"
+	{
+		"jobname"		"Agence Immobilier"
+		"capital"		"97040"
+		"grades"		"5"
+		"1"
+		{
+			"grade"		"Chef"
+			"clantag"		"C.Immobilier"
+			"salary"		"500"
+		}
+		"2"
+		{
+			"grade"		"Co-Chef"
+			"clantag"		"C.Immobilier"
+			"salary"		"500"
+		}
+		"3"
+		{
+			"grade"		"Expert"
+			"clantag"		"Immobilier"
+			"salary"		"500"
+		}
+		"4"
+		{
+			"grade"		"Agent"
+			"clantag"		"Immobilier"
+			"salary"		"500"
+		}
+		"5"
+		{
+			"grade"		"Intérimaire"
+			"clantag"		"Immobilier"
+			"salary"		"500"
+		}
+	}
+	"9"
+	{
+		"jobname"		"Dealer"
+		"capital"		"99515"
+		"grades"		"5"
+		"1"
+		{
+			"grade"		"Chef"
+			"clantag"		"C.Dealer"
+			"salary"		"550"
+		}
+		"2"
+		{
+			"grade"		"Co-Chef"
+			"clantag"		"C.Dealer"
+			"salary"		"500"
+		}
+		"3"
+		{
+			"grade"		"Trafiquant"
+			"clantag"		"Dealer"
+			"salary"		"500"
+		}
+		"4"
+		{
+			"grade"		"Dealer"
+			"clantag"		"Dealer"
+			"salary"		"500"
+		}
+		"5"
+		{
+			"grade"		"Toxico"
+			"clantag"		"Dealer"
+			"salary"		"500"
+		}
+	}
+	"10"
+	{
+		"jobname"		"Technicien"
+		"capital"		"99500"
+		"grades"		"5"
+		"1"
+		{
+			"grade"		"Chef"
+			"clantag"		"C.Technicien"
+			"salary"		"500"
+		}
+		"2"
+		{
+			"grade"		"Co-Chef"
+			"clantag"		"C.Technicien"
+			"salary"		"500"
+		}
+		"3"
+		{
+			"grade"		"Ingénieur"
+			"clantag"		"Technicien"
+			"salary"		"500"
+		}
+		"4"
+		{
+			"grade"		"Hacker"
+			"clantag"		"Technicien"
+			"salary"		"500"
+		}
+		"5"
+		{
+			"grade"		"Technicien"
+			"clantag"		"Technicien"
+			"salary"		"500"
+		}
+	}
+	"11"
+	{
+		"jobname"		"Banque"
+		"capital"		"101900"
+		"grades"		"5"
+		"1"
+		{
+			"grade"		"Chef"
+			"clantag"		"C.Banque"
+			"salary"		"600"
+		}
+		"2"
+		{
+			"grade"		"Co-Chef"
+			"clantag"		"C.Banque"
+			"salary"		"500"
+		}
+		"3"
+		{
+			"grade"		"Expert"
+			"clantag"		"Banque"
+			"salary"		"500"
+		}
+		"4"
+		{
+			"grade"		"Assureur"
+			"clantag"		"Banque"
+			"salary"		"500"
+		}
+		"5"
+		{
+			"grade"		"Stagiaire"
+			"clantag"		"Banque"
+			"salary"		"500"
+		}
+	}
+	"12"
+	{
+		"jobname"		"Mercenaire"
+		"capital"		"100000"
+		"grades"		"5"
+		"1"
+		{
+			"grade"		"Chef"
+			"clantag"		"C.Mercenaire"
+			"salary"		"500"
+		}
+		"2"
+		{
+			"grade"		"Co-Chef"
+			"clantag"		"C.Mercenaire"
+			"salary"		"500"
+		}
+		"3"
+		{
+			"grade"		"Capitaine"
+			"clantag"		"Mercenaire"
+			"salary"		"500"
+		}
+		"4"
+		{
+			"grade"		"Lieutenant"
+			"clantag"		"Mercenaire"
+			"salary"		"500"
+		}
+		"5"
+		{
+			"grade"		"Sergent"
+			"clantag"		"Mercenaire"
+			"salary"		"500"
+		}
+	}
+	"13"
+	{
+		"jobname"		"Artificier"
+		"capital"		"99625"
+		"grades"		"5"
+		"1"
+		{
+			"grade"		"Chef"
+			"clantag"		"C.Artificier"
+			"salary"		"500"
+		}
+		"2"
+		{
+			"grade"		"Co-Chef"
+			"clantag"		"C.Artificier"
+			"salary"		"500"
+		}
+		"3"
+		{
+			"grade"		"Artificier Pro"
+			"clantag"		"Artificier"
+			"salary"		"500"
+		}
+		"4"
+		{
+			"grade"		"Artificier Novice"
+			"clantag"		"Artificier"
+			"salary"		"500"
+		}
+		"5"
+		{
+			"grade"		"Artificier"
+			"clantag"		"Artificier"
+			"salary"		"500"
+		}
+	}
+	"14"
+	{
+		"jobname"		"Vendeur de skin"
+		"capital"		"100000"
+		"grades"		"5"
+		"1"
+		{
+			"grade"		"Chef"
+			"clantag"		"C.Skin"
+			"salary"		"500"
+		}
+		"2"
+		{
+			"grade"		"Co-Chef"
+			"clantag"		"C.Skin"
+			"salary"		"500"
+		}
+		"3"
+		{
+			"grade"		"Manager"
+			"clantag"		"Skin"
+			"salary"		"500"
+		}
+		"4"
+		{
+			"grade"		"Vendeur confirmé"
+			"clantag"		"Skin"
+			"salary"		"500"
+		}
+		"5"
+		{
+			"grade"		"Vendeur"
+			"clantag"		"Skin"
+			"salary"		"500"
+		}
+	}
+	"15"
+	{
+		"jobname"		"Mc'Donald"
+		"capital"		"96700"
+		"grades"		"5"
+		"1"
+		{
+			"grade"		"Chef"
+			"clantag"		"C.M'cDO"
+			"salary"		"600"
+		}
+		"2"
+		{
+			"grade"		"Co-Chef"
+			"clantag"		"C.Mc'DO"
+			"salary"		"500"
+		}
+		"3"
+		{
+			"grade"		"Manager"
+			"clantag"		"Mc'DO"
+			"salary"		"500"
+		}
+		"4"
+		{
+			"grade"		"Cuisto"
+			"clantag"		"Mc'DO"
+			"salary"		"600"
+		}
+		"5"
+		{
+			"grade"		"Apprenti"
+			"clantag"		"Mc'DO"
+			"salary"		"500"
+		}
+	}
+	"16"
+	{
+		"jobname"		"Loto"
+		"capital"		"103453"
+		"grades"		"5"
+		"1"
+		{
+			"grade"		"Chef"
+			"clantag"		"C.Loto"
+			"salary"		"500"
+		}
+		"2"
+		{
+			"grade"		"Co-Chef"
+			"clantag"		"C.Loto"
+			"salary"		"500"
+		}
+		"3"
+		{
+			"grade"		"Manager"
+			"clantag"		"Loto"
+			"salary"		"500"
+		}
+		"4"
+		{
+			"grade"		"Loto"
+			"clantag"		"Loto"
+			"salary"		"500"
+		}
+		"5"
+		{
+			"grade"		"Apprenti"
+			"clantag"		"Loto"
+			"salary"		"500"
+		}
+	}
+	"17"
+	{
+		"jobname"		"Coach"
+		"capital"		"100000"
+		"grades"		"5"
+		"1"
+		{
+			"grade"		"Chef"
+			"clantag"		"C.Coach"
+			"salary"		"500"
+		}
+		"2"
+		{
+			"grade"		"Co-Chef"
+			"clantag"		"C.Coach"
+			"salary"		"500"
+		}
+		"3"
+		{
+			"grade"		"Manager"
+			"clantag"		"Coach"
+			"salary"		"500"
+		}
+		"4"
+		{
+			"grade"		"Entraineur"
+			"clantag"		"Coach"
+			"salary"		"500"
+		}
+		"5"
+		{
+			"grade"		"Coach"
+			"clantag"		"Coach"
+			"salary"		"500"
+		}
+	}
+	"18"
+	{
+		"jobname"		"SexShop"
+		"capital"		"100000"
+		"grades"		"5"
+		"1"
+		{
+			"grade"		"Chef"
+			"clantag"		"C.SexShop"
+			"salary"		"500"
+		}
+		"2"
+		{
+			"grade"		"Co-Chef"
+			"clantag"		"C.SexShop"
+			"salary"		"500"
+		}
+		"3"
+		{
+			"grade"		"Manager"
+			"clantag"		"SexShop"
+			"salary"		"500"
+		}
+		"4"
+		{
+			"grade"		"Surveillant"
+			"clantag"		"SexShop"
+			"salary"		"500"
+		}
+		"5"
+		{
+			"grade"		"SexShoper"
+			"clantag"		"SexShop"
+			"salary"		"500"
+		}
+	}
+	"19"
+	{
+		"jobname"		"Eboueur"
+		"capital"		"100000"
+		"grades"		"5"
+		"1"
+		{
+			"grade"		"Chef"
+			"clantag"		"C.Eboueur"
+			"salary"		"500"
+		}
+		"2"
+		{
+			"grade"		"Co-Chef"
+			"clantag"		"C.Eboueur"
+			"salary"		"500"
+		}
+		"3"
+		{
+			"grade"		"Manager"
+			"clantag"		"Eboueur"
+			"salary"		"500"
+		}
+		"4"
+		{
+			"grade"		"Recycleur"
+			"clantag"		"Eboueur"
+			"salary"		"500"
+		}
+		"5"
+		{
+			"grade"		"Eboueur"
+			"clantag"		"Eboueur"
+			"salary"		"500"
+		}
+	}
+	"20"
+	{
+		"jobname"		"Carshop"
+		"capital"		"100000"
+		"grades"		"5"
+		"1"
+		{
+			"grade"		"Chef"
+			"clantag"		"C.Carshop"
+			"salary"		"500"
+		}
+		"2"
+		{
+			"grade"		"Co-Chef"
+			"clantag"		"C.Carshop"
+			"salary"		"500"
+		}
+		"3"
+		{
+			"grade"		"Commercial"
+			"clantag"		"Carshop"
+			"salary"		"500"
+		}
+		"4"
+		{
+			"grade"		"Vendeur"
+			"clantag"		"Carshop"
+			"salary"		"500"
+		}
+		"5"
+		{
+			"grade"		"Stagiaire"
+			"clantag"		"Carshop"
+			"salary"		"500"
+		}
+	}
+}

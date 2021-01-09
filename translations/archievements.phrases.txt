@@ -1,0 +1,19 @@
+"Phrases"
+{
+	"NewArchievement_All"
+	{
+		"#format" 	"{1:s},{2:s}"
+		"en"	"{1} just unlocked the success: {green} {2} {default}."
+		"fr"	"{1} viens de débloquer le succes: {green}{2}{default}."
+	}
+	"succes_headshotman"
+	{
+		"en"	"Headshot Man"
+		"fr"	"Headshot Man"
+	}
+	"succes_newplayer"
+	{
+		"en"	"New player"
+		"fr"	"Nouveau joueur"
+	}
+}

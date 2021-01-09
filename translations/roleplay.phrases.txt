@@ -1,0 +1,605 @@
+"Phrases"
+{
+	"Core_RespawnIn"
+	{
+		"#format" "{1:0.1f}"
+		"en"	"Next respawn in {1} seconds."
+		"fr"	"Prochaine réapparition dans {1} secondes."
+	}
+	"SQL_DatabaseErrorLogin"
+	{
+		"#format" "{1:s}"
+		"en"	"Cannot connect to the database: {1}"
+		"fr"	"Connection à la base de donnée impossible: {1}"
+	}
+	"Command_NotAvailable"
+	{
+		"en"	"Command only available in-game."
+		"fr"	"Commande disponible uniquement en jeu."
+	}
+	"InvalidTarget"
+	{
+		"en"	"You have to aim for a player."
+		"fr"	"Vous devez viser un joueur."
+	}
+	"InvalidDistance"
+	{
+		"en"	"You have to get closer to the target."
+		"fr"	"Vous devez vous rapprocher de la cible."
+	}
+	"NoAccessDueJail"
+	{
+		"en"	"You do not have access because you are in prison."
+		"fr"	"Vous n'avez pas accès car vous êtes en prison."
+	}
+	"NoAccessCommand"
+	{
+		"en"	"You do not have access to this command."
+		"fr"	"Vous n'avez pas accès à cette commande."
+	}
+	"AlreadyHaveHp"
+	{
+		"#format" "{1:d}"
+		"en"	"You already have {yellow}{1}{lightred}HP{default}."
+		"fr"	"Vous avez déjà {yellow}{1}{lightred}HP{default}."
+	}
+	"AlreadyHaveArmor"
+	{
+		"#format" "{1:d}"
+		"en"	"You already have {yellow}{1}{lightred}Armor{default}."
+		"fr"	"Vous avez déjà {yellow}{1}{lightred}Kevlar{default}."
+	}
+	"AlreadyHaveSkin"
+	{
+		"#format" "{1:s}"
+		"en"	"You have already equipped {green}{1}{default}."
+		"fr"	"Vous avez déjà équipé {green}{1}{default}."
+	}
+	"AlreadyHavePistol"
+	{
+		"en"	"You already have a pistol with you."
+		"fr"	"Vous avez déjà un pistolet sur vous."
+	}
+	"AlreadyHaveKnife"
+	{
+		"en"	"You already have a knife with you."
+		"fr"	"Vous avez déjà un couteau sur vous."
+	}
+	"AlreadyHavePattern"
+	{
+		"#format" "{1:s}"
+		"en"	"Your weapon is not compatible or already has: {lightgreen}{1}{default}."
+		"fr"	"Votre arme n'est pas compatible ou possède déjà: {lightgreen}{1}{default}."
+	}
+	"AlreadyEnabledBankCard"
+	{
+		"en"	"Your bank card is already activated."
+		"fr"	"Votre carte bancaire est déjà activé."
+	}
+	"AlreadyEnabledSwiss"
+	{
+		"en"	"Your Swiss account is already available"
+		"fr"	"Votre compte en suisse est déjà activé."
+	}
+	"AmmoNeedWeapon"
+	{
+		"en"	"You must have a weapon in hand."
+		"fr"	"Vous devez avoir une arme en main."
+	}
+	"Target_AlreadyFreeze"
+	{
+		"en"	"This player is already freeze."
+		"fr"	"Ce joueur est déjà freeze."
+	}
+	"Kill"
+	{
+		"en"	"You killed a person."
+		"fr"	"Vous avez tué une personne."
+	}
+	"Kill_Count"
+	{
+		"#format" "{1:d}"
+		"en"	"You killed {1} person."
+		"fr"	"Vous avez tué {1} personne."
+	}
+	"Kill_Name"
+	{
+		"#format" "{1:s}"
+		"en"	"You killed {1} person."
+		"fr"	"Vous avez tué {1} personne."
+	}
+	"Hud_Money"
+	{
+		"#format" "{1:d}"
+		"en"	"Money: {1}$"
+		"fr"	"Argent: {1}$"
+	}
+	"Hud_Bank"
+	{
+		"#format" "{1:d}"
+		"en"	"Bank: {1}$"
+		"fr"	"Banque: {1}$"
+	}
+	"Hud_Job"
+	{
+		"#format" "{1:s},{2:s}"
+		"en"	"Job: {1} - {2}"
+		"fr"	"Métier: {1} - {2}"
+	}
+	"Hud_Zone"
+	{
+		"#format" "{1:s}"
+		"en"	"Zone: {1}"
+		"fr"	"Zone: {1}"
+	}
+	"Hud_Target"
+	{
+		"#format" "{1:s},{2:d},{3:s}"
+		"en"	"<font color='#E22000'>{1}</font>\nHealth: <font color='#6CFF00'>{2}</font>\nJob: <font color='#6CFF00'>{3}</font>"
+		"fr"	"<font color='#E22000'>{1}</font>\nVie: <font color='#6CFF00'>{2}</font>\nMétier: <font color='#6CFF00'>{3}</font>"
+	}
+	"Hud_Target"
+	{
+		"#format" "{1:s},{2:d},{3:s}"
+		"en"	"<font color='#E22000'>{1}</font>\nHealth: <font color='#6CFF00'>{2}</font>\nJob: <font color='#6CFF00'>{3}</font>"
+		"fr"	"<font color='#E22000'>{1}</font>\nVie: <font color='#6CFF00'>{2}</font>\nMétier: <font color='#6CFF00'>{3}</font>"
+	}
+	"Car_Target"
+	{
+		"#format" "{1:s},{2:0.1f}"
+		"en"	"Car of<font color='#E22000'>{1}</font>\nHealth: <font color='#6CFF00'>{2}</font>"
+		"fr"	"Voiture de <font color='#E22000'>{1}</font>\nVie: <font color='#6CFF00'>{2}</font>"
+	}
+	"HudCar_Speed"
+	{
+		"#format" "{1:d}"
+		"en"	"Speed: {1}MP/H"
+		"fr"	"Vitesse: {1}KM/H"
+	}
+	"HudCar_Fuel"
+	{
+		"#format" "{1:0.1f}"
+		"en"	"Fuel: {1}G"
+		"fr"	"Carburant: {1}L"
+	}
+	"HudCar_Health"
+	{
+		"#format" "{1:0.1f}"
+		"en"	"Health: {1}"
+		"fr"	"Vie: {1}"
+	}
+	"HudCar_Distance"
+	{
+		"#format" "{1:0.1f}"
+		"en"	"Distance: {1}MPH"
+		"fr"	"Distance: {1}KM"
+	}
+	"Sell_Target"
+	{
+		"#format" "{1:s}"
+		"en"	"Interaction with {1}"
+		"fr"	"Intéraction avec {1}"
+	}
+	"Sell_Type"
+	{
+		"en"	"Choose the product to sell:"
+		"fr"	"Choisissez le produit:"
+	}
+	"Sell_Quantity"
+	{
+		"en"	"Choose quantity:"
+		"fr"	"Choisissez la quantité:"
+	}
+	"Sell_TypePay"
+	{
+		"en"	"Choose the payment method:"
+		"fr"	"Choisissez le moyen de paiement:"
+	}
+	"Sell_TypePay_Title"
+	{
+		"#format" "{1:s},{2:d},{3:s},{4:d}"
+		"en"	"{1} offers you {2} {3} for {4} $, buy?"
+		"fr"	"{1} vous propose {2} {3} pour {4}$, acheter ?"
+	}
+	"Sell_TypePay_TitleNPC"
+	{
+		"#format" "{1:d},{2:s},{3:d}"
+		"en"	"Buy {1} {2} for {3} $?"
+		"fr"	"Acheter {1} {2} pour {3}$ ?"
+	}
+	"Sell_PayBy_BankCard"
+	{
+		"en"	"Pay by credit card"
+		"fr"	"Payer par carte bancaire"
+	}
+	"Sell_PayBy_Cash"
+	{
+		"en"	"Pay by cash"
+		"fr"	"Payer en espèce"
+	}
+	"Sell_Cancel"
+	{
+		"en"	"Cancel the purchase."
+		"fr"	"Annuler l'achat."
+	}
+	"Sell_Final_Buyer"
+	{
+		"#format" "{1:d},{2:s},{3:s},{4:d}"
+		"en"	"You bought {1} {2} from {3} for ${4}."
+		"fr"	"Vous avez acheté {1} {2} à {3} pour {4}$."
+	}
+	"Sell_Final_Seller"
+	{
+		"#format" "{1:d},{2:s},{3:s},{4:d}"
+		"en"	"You selled {1} {2} from {3} for ${4}."
+		"fr"	"Vous avez vendu {1} {2} à {3} pour {4}$."
+	}
+	"Sell_Final_NPC"
+	{
+		"#format" "{1:d},{2:s},{3:d}"
+		"en"	"You bought {1} {2} from the NPC for {3} $."
+		"fr"	"Vous avez acheté {1} {2} au PNJ pour {3}$."
+	}
+	"Inventory_Title"
+	{
+		"en"	"Inventory:"
+		"fr"	"Inventaire:"
+	}
+	"Item_None"
+	{
+		"en"	"You have no items in your inventory."
+		"fr"	"Vous n'avez aucun objet dans votre inventaire."
+	}
+	"Item_Cooldown"
+	{
+		"en"	"You must wait before using this item again."
+		"fr"	"Vous devez patienter avant de réutiliser cet item."
+	}
+	"Inventory_using"
+	{
+		"#format" "{1:s}"
+		"en"	"You are using {green} a {lightblue}{1}."
+		"fr"	"Vous utilisez {green}un/une {lightblue}{1}."
+	}
+	"Target_NotEnoughtMoney"
+	{
+		"#format" "{1:s}"
+		"en"	"{1} don't have enough money."
+		"fr"	"{1} n'as pas assez d'argent."
+	}
+	"Target_NotEnoughtBank"
+	{
+		"#format" "{1:s}"
+		"en"	"{1}'s credit card has been declined."
+		"fr"	"La carte bleue de {1} a été refusée."
+	}
+	"Client_NotEnoughtCash"
+	{
+		"en"	"You don't have enough cash!"
+		"fr"	"Vous n'avez pas assez de liquide !"
+	}
+	"Client_NotEnoughtBank"
+	{
+		"en"	"Your credit card has been refused!"
+		"fr"	"Votre carte bleue a été refusée !"
+	}
+	"Month_January"
+	{
+		"en"	"January"
+		"fr"	"Janvier"
+	}
+	"Month_February"
+	{
+		"en"	"February"
+		"fr"	"Février"
+	}
+	"Month_March"
+	{
+		"en"	"March"
+		"fr"	"Mars"
+	}
+	"Month_April"
+	{
+		"en"	"April"
+		"fr"	"Avril"
+	}
+	"Month_May"
+	{
+		"en"	"May"
+		"fr"	"Mai"
+	}
+	"Month_June"
+	{
+		"en"	"June"
+		"fr"	"Juin"
+	}
+	"Month_July"
+	{
+		"en"	"July"
+		"fr"	"Juillet"
+	}
+	"Month_August"
+	{
+		"en"	"August"
+		"fr"	"Août"
+	}
+	"Month_September"
+	{
+		"en"	"September"
+		"fr"	"Septembre"
+	}
+	"Month_October"
+	{
+		"en"	"October"
+		"fr"	"Octobre"
+	}
+	"Month_November"
+	{
+		"en"	"November"
+		"fr"	"Novembre"
+	}
+	"Month_December"
+	{
+		"en"	"December"
+		"fr"	"Décembre"
+	}
+	"Salary_Prime"
+	{
+		"en"	"You received a {green}$100{default} bonus for being {yellow}VIP{default}."
+		"fr"	"Vous avez reçu une prime de {green}100${default} grâce à votre statut de {yellow}VIP{default}."
+	}
+	"Salary_Receive"
+	{
+		"#format" "{1:d}"
+		"en"	"You received your net pay from {green}{1}$ {default}."
+		"fr"	"Vous avez reçu votre salaire net de {green}${1}{default}."
+	}
+	"Salary_CantReceive"
+	{
+		"en"	"Your boss denied you your salary."
+		"fr"	"Votre patron vous a refusé votre salaire."
+	}
+	"Salary_Denied"
+	{
+		"en"	"{lightred}You have chosen not to receive your salary{default}."
+		"fr"	"{lightred}Vous avez choisi de ne pas toucher votre salaire{default}."
+	}
+	"Salary_NotEnought"
+	{
+		"en"	"{lightred}Your boss can't afford to pay you{default}."
+		"fr"	"{lightred}Votre patron n'a pas les moyens de vous payer{default}."
+	}
+	"Salary_DeniedJail"
+	{
+		"en"	"{lightred}You have not received your salary because you are in prison{default}."
+		"fr"	"{lightred}Vous n'avez pas reçu votre salaire car vous êtes en prison{default}."
+	}
+	"Salary_DeniedAfk"
+	{
+		"en"	"{lightred}You are not receiving your pay for being {purple}AFK{default}."
+		"fr"	"{lightred}Vous ne recevez pas votre paye étant {purple}AFK{default}."
+	}
+	"VIP_TimeOut"
+	{
+		"en"	"You are no longer {lightred}VIP {green}!"
+		"fr"	"Vous n'êtes plus {lightred}VIP {green}!"
+	}
+	"VIP_Valid"
+	{
+		"#format" "{1:s}"
+		"en"	"You are {yellow}VIP {default}until {green}{1}{default}."
+		"fr"	"Vous êtes {yellow}VIP {default}jusqu'au {green}{1}{default}."
+	}
+	"VIP_Permanent"
+	{
+		"en"	"You are {yellow}VIP {default}indefinitely."
+		"fr"	"Vous êtes {yellow}VIP {default}à temps indéterminé."
+	}
+	"MenuAdmin_Title"
+	{
+		"en"	"Administration"
+		"fr"	"Administration"
+	}
+	"MenuAdmin_JobMenu"
+	{
+		"en"	"Job"
+		"fr"	"Métier"
+	}
+	"MenuAdmin_SubJobMenu"
+	{
+		"en"	"Manage a player's job:"
+		"fr"	"Gérer le métier d'un joueur:"
+	}
+	"MenuAdmin_JobMenu_Target"
+	{
+		"#format" "{1:s}"
+		"en"	"Manage {1} 's job:"
+		"fr"	"Gérer le métier de {1}:"
+	}
+	"MenuAdmin_JobGrade_Target"
+	{
+		"#format" "{1:s}"
+		"en"	"Manage {1} grade:"
+		"fr"	"Gérer le grade de {1}:"
+	}
+	"MenuAdmin_JobClient_None"
+	{
+		"#format" "{1:s}"
+		"en"	"You fired {1}, he is now unemployed."
+		"fr"	"Vous avez viré {1}, il est maintenant sans emploi."
+	}
+	"MenuAdmin_Job_NoJob"
+	{
+		"en"	"You are now unemployed."
+		"fr"	"Vous êtes maintenant sans emploi."
+	}
+	"PanelTop_10"
+	{
+		"en"	"Top 10"
+		"fr"	"Top 10"
+	}
+	"Bank Title"
+	{
+		"en"	"★ ATM Machine ★"
+		"fr"	"★ Distributeur de billets ★"
+	}
+	"Deposit"
+	{
+		"en"	"Deposit money"
+		"fr"	"Dépot"
+	}
+	"Withdraw"
+	{
+		"en"	"Withdraw"
+		"fr"	"Retrait"
+	}
+	"BankItem"
+	{
+		"en"	"Amount to deposit"
+		"fr"	"Gestion de l'inventaire"
+	}
+	"DepositAmount"
+	{
+		"en"	"Amount to deposit"
+		"fr"	"Montant à déposer"
+	}
+	"WithdrawAmount"
+	{
+		"en"	"Amount to be withdrawn"
+		"fr"	"Montant à retirer"
+	}
+	"AllMoneyDeposit"
+	{
+		"en"	"All my money"
+		"fr"	"Tout mon argent"
+	}
+	"AllMoneyRetract"
+	{
+		"en"	"All my money"
+		"fr"	"Tout mon argent"
+	}
+	"InsufficientMoney"
+	{
+		"en"	"You don't have money on you."
+		"fr"	"Vous ne possèdez pas d'argent sur vous."
+	}
+	"InsufficientBank"
+	{
+		"en"	"Your bank account is empty."
+		"fr"	"Votre compte bancaire est vide."
+	}
+	"InsufficientRequestedMoney"
+	{
+		"en"	"You do not have the requested money."
+		"fr"	"Vous ne possèdez pas l'argent demandé."
+	}
+	"Overdraft"
+	{
+		"en"	"You have no right to overdraft."
+		"fr"	"Vous n'avez pas le droit au découvert."
+	}
+	"Crediting"
+	{
+		"#format" "{1:d}"
+		"en"	"Your account has been credited with {1}$"
+		"fr"	"Votre compte a été crédité de {1}$"
+	}
+	"Debited"
+	{
+		"#format" "{1:d}"
+		"en"	"Your account has been debited from {1}$"
+		"fr"	"Votre compte a été débité de {1}$"
+	}
+	"Command_GarageNoCars"
+	{
+		"en"	"You don't have cars in your garage."
+		"fr"	"Vous n'avez pas de voitures dans votre garage."
+	}
+	"MenuGarage_Title"
+	{
+		"en"	"Garage"
+		"fr"	"Garage"
+	}
+	"MenuGarage_CarFuel"
+	{
+		"#format" "{1:0.1f}"
+		"en"	"Fuel: {1}Gal"
+		"fr"	"Carburant: {1}L"
+	}
+	"MenuGarage_CarHealth"
+	{
+		"#format" "{1:0.1f}"
+		"en"	"Health: {1}"
+		"fr"	"Vie: {1}"
+	}
+	"MenuGarage_CarKm"
+	{
+		"#format" "{1:0.1f}"
+		"en"	"Mi: {1}"
+		"fr"	"KM: {1}"
+	}
+	"MenuGarage_CarSpawn"
+	{
+		"en"	"Spawn"
+		"fr"	"Spawn"
+	}
+	"MenuGarage_CarStore"
+	{
+		"en"	"Put in garage"
+		"fr"	"Ranger la voiture"
+	}
+	"StoreCar"
+	{
+		"en"	"You have stored your car in your garage."
+		"fr"	"Vous avez ranger votre voiture dans votre garage."
+	}
+	"AlreadyHaveJob"
+	{
+		"en"	"You already have a job."
+		"fr"	"Vous avez déjà un emploi."
+	}
+	"Target_AlreadyHaveJob"
+	{
+		"en"	"This person already has a job."
+		"fr"	"Cette personne a déjà un emploi."
+	}
+	"NotInParking"
+	{
+		"en"	"You must be in the city parking lot."
+		"fr"	"Vous devez être dans le parking de la ville."
+	}
+	"SpecialAmmoRemaining"
+	{
+		"#format" "{1:d}"
+		"en"	"Special ammunition remaining: {lightred}{1}{default}."
+		"fr"	"Munitions spéciales restantes: {lightred}{1}{default}."
+	}
+	"NotHunger"
+	{
+		"en"	"You are not hungry."
+		"fr"	"Vous n'avez pas faim."
+	}
+	"ItemWin"
+	{
+		"#format" "{1:s}"
+		"en"	"You have won a {lightgreen}{1}{default}."
+		"fr"	"Vous avez gagné un/une {lightgreen}{1}{default}."
+	}
+	"TooManyBanana"
+	{
+		"en"	"You put too many bananas."
+		"fr"	"Vous avez posé trop de bananes."
+	}
+	"CountThrowKnives"
+	{
+		"#format" "{1:d}"
+		"en"	"You now have {lightred}{1} {default}throwing knives."
+		"fr"	"Vous avez maintenant {lightred}{1} {default}lancer de couteaux."
+	}
+	"CountKnifeLevel"
+	{
+		"#format" "{1:d},{2:d}"
+		"en"	"You now have {lightred} {1}{orange}/{lightred}{2} {default}knife level."
+		"fr"	"Vous avez maintenant {lightred}{1}{orange}/{lightred}{2} {default}niveau de couteau."
+	}
+}

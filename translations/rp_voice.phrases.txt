@@ -1,0 +1,28 @@
+"Phrases"
+{
+	"MenuVocal_General"
+	{
+		"en"	"Mic channel: Global"
+		"fr"	"Canal micro: Global"
+	}
+	"MenuVocal_Job"
+	{
+		"en"	"Canal micro: Job"
+		"fr"	"Canal micro: Métier"
+	}
+	"Vocal_Muted"
+	{
+		"en"	"You are mute !"
+		"fr"	"Vous êtes muet !"
+	}
+	"Vocal_Global"
+	{
+		"en"	"You are now speaking in the global channel."
+		"fr"	"Vous parlez maintenant dans le canal global."
+	}
+	"Vocal_Job"
+	{
+		"en"	"You are now speaking in the job channel."
+		"fr"	"Vous parlez maintenant dans le canal métier."
+	}
+}

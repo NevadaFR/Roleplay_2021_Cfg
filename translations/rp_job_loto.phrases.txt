@@ -1,0 +1,30 @@
+"Phrases"
+{
+	"Casino_Title"
+	{
+		"#format" "{1:d}"
+		"en"	"Online casino [{1}]:"
+		"fr"	"Casino en ligne [{1}]:"
+	}
+	"Casino_Bet"
+	{
+		"#format" "{1:d}"
+		"en"	"Bet {1}$"
+		"fr"	"Miser {1}$"
+	}
+	"Casino_BetInfo"
+	{
+		"en"	"See the lots"
+		"fr"	"Voir les lots"
+	}
+	"Casino_Chance"
+	{
+		"en"	"Chance 1 / 2"
+		"fr"	"Chance 1 / 2"
+	}
+	"Casino_InfoHospital"
+	{
+		"en"	"50% are donated to the Hospital"
+		"fr"	"50% sont reversés à l'Hôpital"
+	}
+}

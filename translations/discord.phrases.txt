@@ -1,0 +1,37 @@
+"Phrases"
+{
+	"player_join"
+	{
+		"#format" "{1:s}"
+		"en"	"{1} joined the server."
+		"fr"	"{1} s'est connecté sur le serveur."
+	}
+	"player_left"
+	{
+		"#format" "{1:s}"
+		"en"	"{1} has left the server."
+		"fr"	"{1} s'est déconnecté du serveur."
+	}
+	"server_start"
+	{
+		"en"	"The server has been started."
+		"fr"	"Le serveur a été démarré."
+	}
+	"server_shutdown"
+	{
+		"en"	"The server has been shut down."
+		"fr"	"Le serveur a été arrêté."
+	}
+	"player_job_none"
+	{
+		"#format" "{1:s},{2:s}"
+		"en"	"{1} promoted {2}: Unemployed."
+		"fr"	"{1} a promu {2}: Sans Emploi."
+	}
+	"player_job"
+	{
+		"#format" "{1:s},{2:s},{3:s},{4:s}"
+		"en"	"{1} promoted {2}: {3} - {4}."
+		"fr"	"{1} a promu {2}: {3} - {4}."
+	}
+}

@@ -1,0 +1,59 @@
+"Phrases"
+{
+	"Target_NoInSurgeryZone"
+	{
+		"en"	"The patient is not in the operating room."
+		"fr"	"Le patient n'est pas dans la chambre d'opération."
+	}
+	"Client_NoInSurgeryZone"
+	{
+		"en"	"You are not in the operating room."
+		"fr"	"Vous n'êtes pas dans la chambre d'opération."
+	}
+	"Surgery_Type"
+	{
+		"en"	"Choose the surgery:"
+		"fr"	"Choisissez la chirurgie:"
+	}
+	"Surgery_Type_Heart"
+	{
+		"en"	"Heart"
+		"fr"	"Coeur"
+	}
+	"Surgery_Type_Legs"
+	{
+		"en"	"Legs"
+		"fr"	"Jambes"
+	}
+	"Surgery_Type_Lung"
+	{
+		"en"	"Lungs"
+		"fr"	"Poumons"
+	}
+	"Surgery_Type_Liver"
+	{
+		"en"	"Liver"
+		"fr"	"Foie"
+	}
+	"Surgery_Sell_Title"
+	{
+		"#format" "{1:s},{2:s},{3:d}"
+		"en"	"{1} offers {2} surgery for {3}$"
+		"fr"	"{1} vous propose une chirurgie {2} pour {3}$"
+	}
+	"Surgery_SellFinal_Buyer"
+	{
+		"en"	"You have paid a surgeon.\n {lightgreen}Operation in progress..."
+		"fr"	"Vous avez payé un chirurgien.\n {lightgreen}Opération en cours..."
+	}
+	"Surgery_SellFinal_Seller"
+	{
+		"en"	"Your patient has validated the surgery.\n {lightgreen}Operation in progress..."
+		"fr"	"Votre patient a validé la chirurgie.\n {lightgreen}Opération en cours..."
+	}
+	"Surgery_ProgressFinish"
+	{
+		"en"	"Surgery performed successfully."
+		"fr"	"Chirurgie éffectué avec succes."
+	}
+}

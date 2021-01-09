@@ -1,0 +1,23 @@
+"Phrases"
+{
+	"Title_VIP"
+	{
+		"en"	"VIP Menu\n"
+		"fr"	"Menu VIP\n"
+	}
+	"param_particles"
+	{
+		"en"	"Particles"
+		"fr"	"Particules"
+	}
+	"Title_Particles"
+	{
+		"en"	"Particles\n"
+		"fr"	"Particules\n"
+	}
+	"param_noneparticles"
+	{
+		"en"	"None\n"
+		"fr"	"Aucune\n"
+	}
+}

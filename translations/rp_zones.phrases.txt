@@ -1,0 +1,313 @@
+"Phrases"
+{
+	"zone_none"
+	{
+		"en"	"Portland-City"
+		"fr"	"Ville de Portland"
+	}
+	"zone_ammunation"
+	{
+		"en"	"Ammu-Nation of Portland"
+		"fr"	"Armurerie de Portland"
+	}
+	"zone_coach"
+	{
+		"en"	"Coach"
+		"fr"	"Coach"
+	}
+	"zone_sexshop"
+	{
+		"en"	"SexShop"
+		"fr"	"SexShop"
+	}
+	"zone_dealer"
+	{
+		"en"	"Landmark Dealer"
+		"fr"	"Repère Dealer"
+	}
+	"zone_townhouse"
+	{
+		"en"	"Town hall"
+		"fr"	"Mairie"
+	}
+	"zone_event"
+	{
+		"en"	"Event"
+		"fr"	"Evenement"
+	}
+	"zone_mafia"
+	{
+		"en"	"Mafia"
+		"fr"	"Mafia"
+	}
+	"zone_hotel"
+	{
+		"en"	"Hotel"
+		"fr"	"Hôtel"
+	}
+	"zone_appart1"
+	{
+		"en"	"Motel Nº1"
+		"fr"	"Motel Nº1"
+	}
+	"zone_appart2"
+	{
+		"en"	"Motel Nº2"
+		"fr"	"Motel Nº2"
+	}
+	"zone_appart3"
+	{
+		"en"	"Motel Nº3"
+		"fr"	"Motel Nº3"
+	}
+	"zone_appart4"
+	{
+		"en"	"Motel Nº4"
+		"fr"	"Motel Nº4"
+	}
+	"zone_appart5"
+	{
+		"en"	"Motel Nº5"
+		"fr"	"Motel Nº5"
+	}
+	"zone_appart6"
+	{
+		"en"	"Motel Nº6"
+		"fr"	"Motel Nº6"
+	}
+	"zone_appart7"
+	{
+		"en"	"Motel Nº7"
+		"fr"	"Motel Nº7"
+	}
+	"zone_appart8"
+	{
+		"en"	"Motel Nº8"
+		"fr"	"Motel Nº8"
+	}
+	"zone_appart9"
+	{
+		"en"	"Motel Nº9"
+		"fr"	"Motel Nº9"
+	}
+	"zone_appart10"
+	{
+		"en"	"Motel Nº10"
+		"fr"	"Motel Nº10"
+	}
+	"zone_appart11"
+	{
+		"en"	"Motel Nº11"
+		"fr"	"Motel Nº11"
+	}
+	"zone_appart12"
+	{
+		"en"	"Motel Nº12"
+		"fr"	"Motel Nº12"
+	}
+	"zone_appart13"
+	{
+		"en"	"Room Nº13"
+		"fr"	"Chambre Nº13"
+	}
+	"zone_appart14"
+	{
+		"en"	"Room Nº14"
+		"fr"	"Chambre Nº14"
+	}
+	"zone_appart15"
+	{
+		"en"	"Room Nº15"
+		"fr"	"Chambre Nº15"
+	}
+	"zone_appart16"
+	{
+		"en"	"Room Nº16"
+		"fr"	"Chambre Nº16"
+	}
+	"zone_appart17"
+	{
+		"en"	"Room Nº17"
+		"fr"	"Chambre Nº17"
+	}
+	"zone_appart18"
+	{
+		"en"	"Room Nº18"
+		"fr"	"Chambre Nº18"
+	}
+	"zone_appart19"
+	{
+		"en"	"Room Nº19"
+		"fr"	"Chambre Nº19"
+	}
+	"zone_garage1"
+	{
+		"en"	"Hotel - Garage Nº1"
+		"fr"	"Hôtel - Garage Nº1"
+	}
+	"zone_garage2"
+	{
+		"en"	"Hotel - Garage Nº2"
+		"fr"	"Hôtel - Garage Nº2"
+	}
+	"zone_garage3"
+	{
+		"en"	"Hotel - Garage Nº3"
+		"fr"	"Hôtel - Garage Nº3"
+	}
+	"zone_garage4"
+	{
+		"en"	"Hotel - Garage Nº4"
+		"fr"	"Hôtel - Garage Nº4"
+	}
+	"zone_garage5"
+	{
+		"en"	"Hotel - Garage Nº5"
+		"fr"	"Hôtel - Garage Nº5"
+	}
+	"zone_garage6"
+	{
+		"en"	"Hotel - Garage Nº6"
+		"fr"	"Hôtel - Garage Nº6"
+	}
+	"zone_garbage"
+	{
+		"en"	"Garbage collector HQ"
+		"fr"	"Planque Eboueur"
+	}
+	"zone_car"
+	{
+		"en"	"Car Dealership"
+		"fr"	"Concessionnaire"
+	}
+	"zone_hospital"
+	{
+		"en"	"Hospital"
+		"fr"	"Hôpital"
+	}
+	"zone_mcdonalds"
+	{
+		"en"	"McDonald's"
+		"fr"	"McDonald's"
+	}
+	"zone_tech"
+	{
+		"en"	"Technician - OVH"
+		"fr"	"OVH - Technicien"
+	}
+	"zone_police_center"
+	{
+		"en"	"P-P-D - Center"
+		"fr"	"P-P-D - Centre"
+	}
+	"zone_police_parking"
+	{
+		"en"	"P-P-D - Parking"
+		"fr"	"P-P-D - Parking"
+	}
+	"zone_police_garage"
+	{
+		"en"	"P-P-D - Garage"
+		"fr"	"P-P-D - Garage"
+	}
+	"zone_police_vest"
+	{
+		"en"	"P-P-D - Cloakrooms"
+		"fr"	"P-P-D - Vestiaires"
+	}
+	"zone_police_promenade"
+	{
+		"en"	"P-P-D - Walk"
+		"fr"	"P-P-D - Promenade"
+	}
+	"zone_police_drunk"
+	{
+		"en"	"P-P-D - Drunk Tank"
+		"fr"	"P-P-D - Dégrisement"
+	}
+	"zone_police_vent"
+	{
+		"en"	"P-P-D - Vent"
+		"fr"	"P-P-D - Conduit"
+	}
+	"zone_police_electric"
+	{
+		"en"	"P-P-D - Electric Chair"
+		"fr"	"P-P-D - Chaise Électrique"
+	}
+	"zone_police_cell"
+	{
+		"en"	"P-P-D - Cells"
+		"fr"	"P-P-D - Cellules"
+	}
+	"zone_police_exterior"
+	{
+		"en"	"P-P-D - Exterior"
+		"fr"	"P-P-D - Extérieur"
+	}
+	"zone_police_maintenance"
+	{
+		"en"	"P-P-D - Maintenance"
+		"fr"	"P-P-D - Maintenance"
+	}
+	"zone_total"
+	{
+		"en"	"Total"
+		"fr"	"Total"
+	}
+	"zone_gaspump"
+	{
+		"en"	"Gas pump"
+		"fr"	"Pompe à essence"
+	}
+	"zone_justice"
+	{
+		"en"	"Court"
+		"fr"	"Tribunal"
+	}
+	"zone_18th"
+	{
+		"en"	"18TH Hideout"
+		"fr"	"Planque 18TH"
+	}
+	"zone_bank"
+	{
+		"en"	"Bank of Portland"
+		"fr"	"Banque de Portland"
+	}
+	"zone_ikea"
+	{
+		"en"	"Ikea"
+		"fr"	"Ikea"
+	}
+	"zone_immo"
+	{
+		"en"	"Real estate agency"
+		"fr"	"Agence Immobilière"
+	}
+	"zone_parking"
+	{
+		"en"	"Parking"
+		"fr"	"Parking"
+	}
+	"zone_commercial"
+	{
+		"en"	"Mall"
+		"fr"	"Centre commercial"
+	}
+	"zone_casino"
+	{
+		"en"	"Casino"
+		"fr"	"Casino"
+	}
+	"zone_skin"
+	{
+		"en"	"Lacoste store"
+		"fr"	"Lacoste"
+	}
+	"zone_artif"
+	{
+		"en"	"Artificery"
+		"fr"	"Artificerie"
+	}
+}

@@ -1,0 +1,88 @@
+"Phrases"
+{
+	"Title"
+	{
+		"en"	"RolePlay\n"
+		"fr"	"RolePlay\n"
+	}
+	"param_job"
+	{
+		"en"	"Job"
+		"fr"	"Métier"
+	}
+	"param_identity"
+	{
+		"en"	"ID Card"
+		"fr"	"Carte d'identité"
+	}
+	"param_admin"
+	{
+		"en"	"Administration"
+		"fr"	"Administration"
+	}
+	"param_inventory"
+	{
+		"en"	"Inventory"
+		"fr"	"Inventaire"
+	}
+	"param_garage"
+	{
+		"en"	"Garage"
+		"fr"	"Garage"
+	}
+	"param_passif"
+	{
+		"en"	"Passive mode"
+		"fr"	"Mode passif"
+	}
+	"param_normal"
+	{
+		"en"	"Normal mode"
+		"fr"	"Mode normal"
+	}
+	"param_call"
+	{
+		"en"	"Call a player"
+		"fr"	"Appeler un joueur"
+	}
+	"param_stats"
+	{
+		"en"	"Statistics"
+		"fr"	"Statistiques"
+	}
+	"param_help"
+	{
+		"en"	"Need help"
+		"fr"	"Besoin d'aide"
+	}
+	"param_setting"
+	{
+		"en"	"Settings"
+		"fr"	"Paramètres"
+	}
+	"param_hud"
+	{
+		"en"	"Hud"
+		"fr"	"Hud"
+	}
+	"param_joinsound_on"
+	{
+		"en"	"Joinsound [ON]"
+		"fr"	"Son de connection [ON]"
+	}
+	"param_joinsound_off"
+	{
+		"en"	"Joinsound [OFF]"
+		"fr"	"Son de connection [OFF]"
+	}
+	"param_spawnjob_on"
+	{
+		"en"	"Spawn H.Q [ON]"
+		"fr"	"Spawn Q.G [ON]"
+	}
+	"param_spawnjob_off"
+	{
+		"en"	"Spawn H.Q [OFF]"
+		"fr"	"Spawn Q.G [OFF]"
+	}
+}
